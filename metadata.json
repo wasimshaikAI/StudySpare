@@ -1,0 +1,7 @@
+{
+  "name": "StudySphere",
+  "description": "A high-performance collaborative study room with real-time chat, shared whiteboard, flashcards, quizzes, and productivity tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
